@@ -1,4 +1,4 @@
-10 stocks and identifications of the below Chart Patters:
+10 stocks and identifications of the below Chart Patterns:
 
 1) Descending triangle
 2) Bull flag
